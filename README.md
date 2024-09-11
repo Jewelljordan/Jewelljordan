@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Jewell 👋
+I'm an undergradate student at Mississippi State University majoring in Computer Science and minoring in Math!
+
+# About Me
+My Interests are...
+ - Virtual reality research and development
+ - High-fidelity virtual environments
+ - Cognitive science, artificial intelligence, and human-computer interaction
+ - Exploring where neuroscience and computer science cross
+ - EEG, MRI, and spatial data collecting
 
 <!--
 **Jewelljordan/Jewelljordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
