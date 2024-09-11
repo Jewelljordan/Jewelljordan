@@ -1,7 +1,7 @@
 ## Hi there, I'm Jewell 👋
-I'm an undergradate student at Mississippi State University majoring in Computer Science and minoring in Math!
+I'm an undergraduate student at Mississippi State University majoring in Computer Science and minoring in Math!
 
-# About Me
+### About Me
 My Interests are...
  - Virtual reality research and development
  - High-fidelity virtual environments
